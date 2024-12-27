@@ -1,6 +1,4 @@
 # 🔥 Create a Responsive QR Code Generator Using HTML, CSS, and JavaScript
-## [Live Preview](https://amanayak.github.io/Create-Responsive-QR-Code-Generator)
-### 🔥 Create a Responsive QR Code Generator Using HTML, CSS, and JavaScript
 
 - Dynamic QR Code Generation: Allow users to input custom text or URLs and generate a unique QR code.
 - Responsive Design: Ensure the generator is mobile-friendly and adapts to different screen sizes.
